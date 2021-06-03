@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sense of the united nonconforming ministers in and about London concerning some of the erroneous doctrines and irregular practices of Mr. Richard Davis of Rothwell in Northamptonshire</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59207</idno><idno type="EEBO-CITATION">9029480</idno>
+  <idno type="VID">42296</idno>
+  <idno type="EEBO-PROQUEST">2248515263</idno>
+  
+            <idno type="STC">Wing S2553</idno>
+            <idno type="STC">ESTC R25615</idno>
+            <idno type="OCLC">09029480</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42296)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1294:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sense of the united nonconforming ministers in and about London concerning some of the erroneous doctrines and irregular practices of Mr. Richard Davis of Rothwell in Northamptonshire</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockerill and John Dunton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Davis, Richard, 1658-1714.</term>
+               <term type="topical_term">Congregationalism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42296:1"/>
+            <pb n="1" facs="tcp:42296:1"/>
+            <head>THE SENSE OF THE United Nonconforming Ministers, In and about <hi>LONDON,</hi> Concerning some of the Erroneous Doctrines, and Irregular Practises, OF M<seg rend="sup">r.</seg>
+               <hi>Richard Davis,</hi> Of <hi>Rothwell</hi> in <hi>Northamptonshire.</hi>
+            </head>
+            <p>WE the United Nonconforming Mi<g ref="char:EOLhyphen"/>nisters in and about <hi>London,</hi> ha<g ref="char:EOLhyphen"/>ving been oft consulted by our Grieved Brethren in the Countrey, about some Expedient to Reclaim Mr. <hi>Richard Davis</hi> of <hi>Roth<g ref="char:EOLhyphen"/>well</hi> in the County of <hi>Northampton;</hi> or at least, to prevent the Scandal and Mischievous Effects
+<pb n="2" facs="tcp:42296:2"/> of his Erroneous Principles, and Irregular Pra<g ref="char:EOLhyphen"/>ctices; Have thought it incumbent on us to Publish the following Account and Testimony, that we may not be wanting in our Faithfulness and Zeal for the Truth of Christ, and for that Peace and Order among his People, which is so strictly enjoyned by him; nor be esteem<g ref="char:EOLhyphen"/>ed Approvers of those Delusions and Extra<g ref="char:EOLhyphen"/>vagancies, whereby Souls are endangered, Divisions highly fomented, and our present Liberty abused, to the hurt and Reproach of all of us, as Dissenters.</p>
+            <p>It will, we doubt not, appear to imparti<g ref="char:EOLhyphen"/>al men (since divers Methods that we have used for the reclaiming of him, have proved unsuccessful) to be our present Duty to vin<g ref="char:EOLhyphen"/>dicate our selves, and warn such in whom we are respectively concerned, against his De<g ref="char:EOLhyphen"/>lusions, under the Name of the Blessed Go<g ref="char:EOLhyphen"/>spel; and his Dividing Courses, whilst he pre<g ref="char:EOLhyphen"/>tends to Reform the Church.</p>
+            <p>We shall not here enumerate all the Er<g ref="char:EOLhyphen"/>rors he studiously propagateth; but do here<g ref="char:EOLhyphen"/>by bear our Testimony against these follow<g ref="char:EOLhyphen"/>ing;
+<pb n="3" facs="tcp:42296:2"/>
+               <hi>viz.</hi>
+               <q rend="margQuotes">That the Law of Innocency was not able to save Man at first. That Ju<g ref="char:EOLhyphen"/>stification upon believing, is only a Ma<g ref="char:EOLhyphen"/>nifestation to the Conscience of an ante<g ref="char:EOLhyphen"/>cedent Justification; and so it is not the State of the Soul, but its sense of its state, that is altered upon Conversion. That Ju<g ref="char:EOLhyphen"/>stifying Faith is a Persuasion that our Sins are Pardoned; and when it is said, we believe for Pardon, it is meant, for the Knowledge of Pardon. That this Faith is not a consenting act of the Will. That the Law prepares not for Conversion, and its Con<g ref="char:EOLhyphen"/>victions tend to drive men further from Christ. That the Law of the Gospel is the great Law of Electing Grace, <hi>viz. I will have mercy on whom I will have mercy.</hi> That there be no preparatory humblings in order to Faith. That we should begin our Religi<g ref="char:EOLhyphen"/>on with high Confidence of our Interest in Christ, and must maintain it against all Chal<g ref="char:EOLhyphen"/>lenges or Doubts from our Sins or Defects. That they are like <hi>Baal</hi>'s Priests, who put men on trying themselves by such Marks, As Sin<g ref="char:EOLhyphen"/>cerity, Universal Obedience, Love to God, and Christ, and the Brethren. That all Believers
+<pb n="4" facs="tcp:42296:3"/> at all times stand before God without Sin; yea, when they are Sinning against God, they are without spot before God; and when they have sinned, and pray for Pardon, it is for the Discovery thereof to their Conscience, and not for what is properly Forgiveness. That Christ fulfilled the Covenant of Grace for us, and he believed for us as our Representative.</q> Which, with many others, are well Attested, yea, and Owned in his own Papers, for the most part in his ex<g ref="char:EOLhyphen"/>press Words, and the rest plainly appear to be his Sense.</p>
+            <p>These Assertions we declare repugnant to the Gospel, (as also to the Doctrine of the <hi>Church of England,</hi> and other <hi>Confessions</hi> agree<g ref="char:EOLhyphen"/>able to the Gospel, whereto we have Assent<g ref="char:EOLhyphen"/>ed), strong Temptations to Carnal Security, and Libertinism, and some of Satan's Fiery Darts, whereby he endeavoureth the Ruin of those Souls who are less subject to other Snares; and as what would destroy the Mini<g ref="char:EOLhyphen"/>stry which Christ hath appointed and prosper<g ref="char:EOLhyphen"/>ed to the Conversion of Sinners.</p>
+            <pb n="5" facs="tcp:42296:3"/>
+            <p>In the like manner we do testifie against the Unchristian Practices of Mr. <hi>Davis,</hi> viz. That though he scrupled not to Baptize the Children of his own people, he yet Re-bapti<g ref="char:EOLhyphen"/>zed such Adult Members as were Baptized in their Infancy by any Ministers of the Church of <hi>England;</hi> In answer whereto he thus writes. <hi>That if any, being the Seed of Strangers, and ha<g ref="char:EOLhyphen"/>ving no other Baptism than that of the Publick, desire to submit to that Ordinance, I dare not re<g ref="char:EOLhyphen"/>fuse it; for I look on that done in the Publick, null and void on a twofold account. (1.) They, and their unbelieving Parents, being in no sense, or wise, under the Covenant, Baptism cannot be a Seal; and while it is not a Seal, I apprehend it nothing, and therefore null and void. (2.) The Administrators are none of Christ's sending, there<g ref="char:EOLhyphen"/>fore what they do in Matters of Religion, is no<g ref="char:EOLhyphen"/>thing; an Idol is nothing; and by parity of Rea<g ref="char:EOLhyphen"/>son, Ordinances falsly administred, are nothing,</hi> &amp;c. <hi>And though it</hi> (viz. Baptism) <hi>be done by them in the Name of the Father, Son, and Spirit, yet still they prophesy lies in the Name of the Lord, for he never sent them.</hi> Our Reasons against this Horrid Opinion were sent to him, but without any influence for his Conviction.
+<pb n="6" facs="tcp:42296:4"/> His sending forth Preachers unfit for the Ministry, and unapproved by the Neigh<g ref="char:EOLhyphen"/>bouring Ministers; His unchurching such Churches as agree not with his Exorbitant Methods, and Licentious Principles; His wickedly railing against most of the Ortho<g ref="char:EOLhyphen"/>dox, laborious Ministers, endeavouring to the utmost to prejudice the People against their Persons and Labours, as Idolatrous, Le<g ref="char:EOLhyphen"/>gal, and Antichristian; Yea, affirming, That all the Churches are gone a whoring from Christ, and that happy is he who is an In<g ref="char:EOLhyphen"/>strument in breaking all the Churches, where<g ref="char:EOLhyphen"/>in he hath made too great a progress.</p>
+            <p>Having thus expressed our thoughts con<g ref="char:EOLhyphen"/>cerng his Principles and Practices, (whereto many more might, and in due time may be added, with just Reflections thereon) We do here further declare, That he never was, nor is by us esteemed, of the number of the United Brethren.</p>
+            <p>It is our grief, that a Man should with meer Falshood, Clamour and Noise, pre<g ref="char:EOLhyphen"/>vail so far: It is no less our wonder, that he
+<pb n="7" facs="tcp:42296:4"/> should generally set up for the only Gospel-Preacher, reviling most others, and yet when charged with his Assertions, he at times attempts, to unintelligent Persons, to reduce those abominable Assertions, to what is the General Opinion of such as he ex<g ref="char:EOLhyphen"/>poseth. But we shall earnestly pray for his Repentance; and (in the mean time) that that Scripture may be verified in him, 2 <hi>Tim. 3. 9. He shall proceed no fur<g ref="char:EOLhyphen"/>ther, but his Folly shall be manifested to all men;</hi> Which we are encouraged to hope the sudden accomplishment of, since he is given up to such trifling Visions, Enthusiastick Pre<g ref="char:EOLhyphen"/>tences, Self-Contradictions, highest Arrogan<g ref="char:EOLhyphen"/>cy and Insolence; and many are awakened to see the Wiles of the Devil by their visi<g ref="char:EOLhyphen"/>ble Effects; and most Persons fit to judge hereof, agree, It cannot be the Interest of Christ that he serves, by the Spirit he disco<g ref="char:EOLhyphen"/>vers, and the publick Scandals and mischiefs he so industriously promotes.</p>
+            <closer>
+               <dateline>
+                  <date>Decemb. 26. 1692.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Cockerill,</hi> at the <hi>Three Legs</hi> over-against the <hi>Stocks-Market:</hi> And <hi>Iohn Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi> 1693.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:42296:5"/>
+            <list>
+               <head>Books printed for <hi>Thomas Cockerill.</hi>
+               </head>
+               <item>THere is now in the Press, and will suddenly be published, <hi>An Exposition</hi> of the <hi>Assemblies</hi> Shorter <hi>Catechism,</hi> with Practical Inferences from each Question. By Mr. <hi>John Flavell,</hi> late Minister of the Gospel. In <hi>8vo.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>A Discourse of Mental Errors. To which is added, (1). An Answer to Mr. <hi>Cary</hi> against Infant Baptism. (2). An Answer to some <hi>Antinomian</hi> Errors. (3). A Sermon about Union. In <hi>8vo.</hi>
+                     </item>
+                     <item>The Reasonableness of Personal Reformation, and Necessity of Conversion. <hi>12o.</hi>
+                     </item>
+                     <item>Mr. <hi>John Flavel<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>'s Remains, with some Account of his Life. <hi>8vo.</hi>
+                     </item>
+                     <item>A Scheme of Sins and Duties of Believers, in one Sheet.</item>
+                     <trailer>
+                        <hi>These Four by the Reverend Mr.</hi> Flavell.</trailer>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>A Discourse of Regeneration, Faith and Repentance. In <hi>8vo.</hi>
+                     </item>
+                     <item>A Discourse of Christian Religion in Sundry Points. In <hi>8vo.</hi>
+                     </item>
+                     <item>The Incomprehensibleness of Imputed Righteousness for Ju<g ref="char:EOLhyphen"/>stification by Human Reason. In <hi>12o.</hi>
+                     </item>
+                     <trailer>
+                        <hi>These Three last by Mr.</hi> Thomas Cole, <hi>Minister of the Gospel.</hi>
+                     </trailer>
+                  </list>
+               </item>
+               <item>Love to Christ necessary to Escape the Curse at his coming. By <hi>Thomas Doolittle.</hi> M. A.</item>
+               <item>A Brief Account of the Differences now depending, and agita<g ref="char:EOLhyphen"/>ted about Justification, and some other Points of Religion; de<g ref="char:EOLhyphen"/>claring plainly wherein both sides agree, and wherein they differ. In <hi>4to.</hi>
+               </item>
+               <item>
+                  <hi>Rushworth</hi>'s Historical Collections, the Third Part, never be<g ref="char:EOLhyphen"/>fore printed, containing Matter of Fact from the Year 1640. to the latter end of the Year 1644. in two Vol. <hi>Fol.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <list>
+               <head>Books lately Printed for <hi>John Dunton.</hi>
+               </head>
+               <item>
+                  <hi>THe Tryals of several Witches,</hi> lately executed in <hi>New England,</hi> written by <hi>Cotton Mather,</hi> and published by the special Command of the <hi>Governor.</hi>
+               </item>
+               <item>Casuistical Morning Exercises. The 4th Volume.</item>
+               <item>The Life of the Reverend Mr. <hi>Thomas Brand,</hi> by Dr. <hi>Annesley.</hi>
+               </item>
+               <item>The Vanity of Childhood and Youth. By <hi>Daniel▪ Williams.</hi>
+               </item>
+               <item>The Mourners Companion. By <hi>John Shower.</hi>
+               </item>
+               <item>A Practical Discourse on Sickness and Recovery.</item>
+               <item>Early Religion▪ or a Discourse of the Duty and Interest of Youth. Both written by <hi>T. Rogers,</hi> M. A.</item>
+               <item>The Life and Death of the Reverend Mr. <hi>Eliot,</hi> first Preacher of the Gospel to the <hi>Indians</hi> in <hi>America.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
